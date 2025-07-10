@@ -1,4 +1,4 @@
-# 🚀 Todo Task Management System
+# Todo Task 
 
 ## 📋 Overview
 A modern, elegant task management system built with PHP and MySQL, featuring a sophisticated black color scheme with glass-morphism design elements. The system provides comprehensive user management, task tracking, and role-based access control.
